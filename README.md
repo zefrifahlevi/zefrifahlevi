@@ -5,11 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div>
-  <h1>My Name is Zefri</h1>
+<div align="center">
+  <a href="https://github.com/zefrifahlevi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefrifahlevi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefrifahlevi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 
 
