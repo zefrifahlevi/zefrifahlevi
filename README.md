@@ -14,7 +14,7 @@
   <img align="center" alt="Zefri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Zefri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Zefri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Zefri-pics" height="150" style="border-radius:50px;" src="https://c.tenor.com/0pblQjWEOHUAAAAC/azizi-asadel-azizi.gif">
+  <img align="right" alt="Zefri-pics" height="150" style="border-radius:50px;" src="https://fashionsista.co/wallpaper/wallpaper/20211101/50-gambar-anime-keren-3d-laki-laki-dan-perempuan-preview.webp">
 </div>
 
 ##
