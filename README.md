@@ -1,5 +1,11 @@
 # Hello Everyone I'm Zefri Fahlevi
 
+  <li>
+    Beginner Front End Developer  
+  </li>
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/zefrifahlevi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefrifahlevi&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
