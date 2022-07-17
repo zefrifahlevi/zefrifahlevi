@@ -4,7 +4,6 @@
     Beginner Front End Developer  
   </li>
 <br>
-<br>
 
 <div align="center">
   <a href="https://github.com/zefrifahlevi">
