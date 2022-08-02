@@ -1,7 +1,10 @@
 # Hello Everyone I'm Zefri Fahlevi
 
   <li>
-    Beginner Front End Developer  
+    Informatics Engineering
+  </li>
+  <li>
+    Frontend Engineering
   </li>
 <br>
 
