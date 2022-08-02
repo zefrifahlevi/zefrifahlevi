@@ -4,7 +4,7 @@
     Informatics Engineering
   </li>
   <li>
-    Frontend Engineering
+    Frontend Engineer
   </li>
 <br>
 
