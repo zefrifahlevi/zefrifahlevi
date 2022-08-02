@@ -11,6 +11,7 @@
 <div align="center">
   <a href="https://github.com/zefrifahlevi">
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zefrifahlevi&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zefrifahlevi&theme=dracula)       ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zefrifahlevi&theme=dracula&utcOffset=8)
  
 </div>
   
