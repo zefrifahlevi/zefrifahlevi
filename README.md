@@ -10,8 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/zefrifahlevi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zefrifahlevi&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=nightowl"/>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zefrifahlevi&theme=tokyonight)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zefrifahlevi&theme=tokyonight)                    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zefrifahlevi&theme=tokyonight&utcOffset=8)
+   
 </div>
   
 <div style="display: inline_block"><br>
@@ -39,9 +40,9 @@
   <a href ="https://github.com/zefrifahlevi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href= "https://steamcommunity.com/profiles/76561198989172198" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href ="https://gitlab.com/zefrifahlevi" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  
-  
-  
-  
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  
+   
 </div>
