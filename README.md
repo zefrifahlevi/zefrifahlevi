@@ -11,7 +11,8 @@
 <div align="center">
   <a href="https://github.com/zefrifahlevi">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zefrifahlevi&theme=tokyonight)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zefrifahlevi&theme=tokyonight)      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zefrifahlevi&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zefrifahlevi&theme=2077)       ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zefrifahlevi&theme=2077)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zefrifahlevi&theme=2077)
+  
 </div>
   
 <div style="display: inline_block"><br>
