@@ -7,7 +7,7 @@
     Frontend Engineer
   </li>
   <li>
-    React Engineer
+    React Developer
   </li>
 <br>
 
