@@ -6,9 +6,6 @@
   <li>
     Frontend Engineer
   </li>
-  <li>
-    React Developer
-  </li>
 <br>
 
 <div align="center">
