@@ -1,7 +1,7 @@
 # Hello Everyone I'm Zefri Fahlevi
 
   <li>
-    Software Engineering
+    Informatics Engineering
   </li>
   <li>
     Frontend Software Engineer
