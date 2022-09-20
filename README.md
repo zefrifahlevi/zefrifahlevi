@@ -1,11 +1,4 @@
 # Hello Everyone I'm Zefri Fahlevi
-
-  <li>
-    Informatics Engineering
-  </li>
-  <li>
-    Frontend Software Engineer
-  </li>
 <br>
 
 <div align="center">
