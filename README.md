@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zefri Fahlevi Irdiansyah</h1>
 <h3 align="center">Im Freelancer Programmer, Still Study and Learning</h3>
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f864987d247d7b615a1f4805ba29de94cd67e165&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefrifahlevi&label=Profile%20views&color=0e75b6&style=flat" alt="zefrifahlevi" /> </p>
 
