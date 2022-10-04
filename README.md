@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefrifahlevi&label=Profile%20views&color=0e75b6&style=flat" alt="zefrifahlevi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zefrifahlevi" alt="zefrifahlevi" /></a> </p>
+<img  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761175676c11bda38fbaef8fefdbaad156bd234a1676&rid=giphy.gif&ct=g" height="290px" align="right" />
 
 - 🌱 I’m still learning in **Front-end Development, and Backend Development**
 
